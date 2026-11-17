@@ -1,0 +1,3 @@
+# patch_complete99.py uses the Python standard library only.
+# No third-party packages are required; this file exists so a venv/pip
+# bootstrap is a no-op instead of an error.

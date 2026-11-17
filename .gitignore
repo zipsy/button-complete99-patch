@@ -1,0 +1,8 @@
+# game binaries and Steam artifacts are NOT tracked in this repo
+*.exe
+*.exe.bak
+*.dll
+*.vdf
+*.msi
+*.ps1
+demo/
